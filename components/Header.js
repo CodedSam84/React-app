@@ -18,7 +18,8 @@ function Header() {
           src="https://links.papareact.com/qd3" 
           layout="fill"
           objectFit="contain"
-          objectPosition="left" 
+          objectPosition="left"
+          alt=""
         />
       </div>
       {/* Middle - Search*/}
