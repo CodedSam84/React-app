@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className="grid md:grid-cols-3 lg:grid-cols-4 w-full gap-y-10 px-10 py-14 bg-gray-100 text-gray-600">
+    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 w-full gap-y-10 xl:pl-[100px] pl-10 py-14 bg-gray-100 text-gray-600">
       <div className="space-y-4 text-xs text-gray-800 max-w-[200px]">
         <h5 className="font-bold">ABOUT</h5>
         <p>How Airbnb works</p>

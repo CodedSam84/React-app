@@ -19,3 +19,16 @@ a {
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+.rdrDateRangePickerWrapper {
+  width: 100%;
+  margin-left: -25px;
+}
+
+.rdrDefinedRangesWrapper {
+  width: 20vw !important;
+}
+
+.rdrInputRange {
+  margin-left: -25px;
+}
