@@ -5,7 +5,7 @@ import Footer from '../components/Footer'
 import Header from '../components/Header'
 import InfoCard from '../components/InfoCard';
 
-function search({searchResults}) {
+function Search({searchResults}) {
   
   const router = useRouter();
   const { location, startDate, endDate, noOfGuests } = router.query;
